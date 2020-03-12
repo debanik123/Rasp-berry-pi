@@ -1,0 +1,59 @@
+192.168.137.26
+echo>G:\ssh
+ssh
+pi
+raspberry
+sudo apt-get install tightvncserver
+raspberrypi:1.log
+sudo raspi-config
+Camera=
+PHOTO
+raspistill
+raspistill -o image.jpg
+VIDEOS
+raspivid
+raspivid -o testvideo.h264 -t 10000
+
+1.pwd
+2.cd /home #change folder
+3.~cd #Back to initial position
+4.ls #list the contents of a directory
+5. mndir example
+6.cd example/
+7.nano test.py
+8.python
+9.quit() # Stop Python 
+10. wget http address
+11.sudo apt-get install git
+12.rm name #To remove some thing
+13.rm -r folder name/
+14.ls -a # All hidden content shown
+15.ls -al
+16.ls --all
+17.ls --help
+18.sudo apt-get update
+19.sudo apt-get upgrade # install new package
+20.sudo shutdown -h now #shut down
+21. sudo shutdown -r now # restart
+22.nano cameraexample.py
+23.sudo apt-get install python-picamera
+24.sudo apt-get install python-rpi.gpio
+25.^ d #back to initial position
+26. unzip abc.zip
+27.nano name.py
+28.python3 name.py
+29.sudo nano /etc/dphys-swapfile
+30.CONF_SWAPSIZE=1024
+31.source ~/.profile
+32. sudo pip3 install imutils
+
+
+
+
+
+
+
+
+
+
+
